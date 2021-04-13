@@ -1,5 +1,7 @@
 # PytestDjangoSetup
 
+[![codecov](https://codecov.io/gh/guilhermegouw/PytestDjangoSetup/branch/main/graph/badge.svg?token=VTRKETR8RH)](https://codecov.io/gh/guilhermegouw/PytestDjangoSetup)
+
 Repositório criado para ser usado como modelo de configuração do Pytest no Django.
 
 1. Criar ambiente virtual
