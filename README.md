@@ -15,4 +15,7 @@ Cobertura de testes
 
 Esconder informações sensíveis
 
-1. 
+1. Instalar o python-decouple
+2. Na raiz do projeto criar um diretório contrib, dentro dele criar um arquivo .env-sample
+3. Tbm na raiz do projeto crie um arquivo .env e adicione o .env no seu .gitignore
+4. No settings.py configure o Debug e Secret Key.
